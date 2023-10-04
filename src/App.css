@@ -1,0 +1,35 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 50vh;
+}
+h1 {
+    font-size: 4rem;
+    padding: 1rem;
+    color: rgb(170, 130, 207);
+}
+#drum-pads {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    width: 16rem;
+    height: 16rem;
+}
+.drum-pad {
+    width: 5rem;
+    height: 5rem;
+    background-color: yellow;
+    border-radius: 5px;
+}
+.drum-pad:hover {
+    background-color: rgb(170, 130, 207);
+}
+#display {
+    text-align: center;
+    padding: 1rem;
+    font-size: 2rem;
+    color: rgb(170, 130, 207);
+}
+
