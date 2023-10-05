@@ -1,4 +1,4 @@
-# Random Quote Generator  
+# Drum Machine  
 [Click here for DEMO](https://createdbycc.github.io/drum-machine-freecodecamp/)  
 
 > This is one of the freeCodeCamp Front End Development Libraries Projects.
